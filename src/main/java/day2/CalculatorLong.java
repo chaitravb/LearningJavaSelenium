@@ -13,5 +13,5 @@ public class CalculatorLong {
     public void  addNumber(long x, long y, long z) {
         long sum = x + y + z;
         System.out.println("addition of 3 numbers :" + sum);
-    }
+    }     
 }
